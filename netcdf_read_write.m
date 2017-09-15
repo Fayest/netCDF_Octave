@@ -2,6 +2,7 @@
 %requirement : - nr2d_pr function to convert daily rain data netCDF to ascii (area/dot)
 %              - nr2m_pr function to convert monthly rain data netCDF to ascii (area/dot)
 %              - nc2AIA function to convert daily rain data netCDF to arc info ascii (area)
+%              - netcdf, nan, and io packages for octave
 close all; clear all; clc;
 %load packages for octave, turn off if use MATLAB-------------------------------
 pkg load netcdf;
