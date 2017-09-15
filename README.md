@@ -5,3 +5,5 @@ description and configuration inside the main file netcdf_read_write.m,
 if there is mistakes just contact me, I'll correct it as soon as possible.
 
 create and tasted in octave 4.2.1
+
+nb: as always sorry for bad grammar :D
